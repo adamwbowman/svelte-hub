@@ -1,3 +1,3 @@
 # Hub 
 
-Quuck and dirty site.
+Quick and dirty site.
